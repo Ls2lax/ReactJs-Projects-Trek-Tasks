@@ -1,7 +1,8 @@
-# ReactJs-Projects-Trek-Tasks
+# React + Vite
 
-This is a basic learning and hands on project on Reactjs.
-in this web application user can track their daily tasks in 3 category
-1. todo 2. doing 3. done
-user can add task and delete tasks
-also used below ReactJs Functionalities.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
